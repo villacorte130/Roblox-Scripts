@@ -1,0 +1,21 @@
+repeat wait() until game:IsLoaded()
+local PlaceId = game.PlaceId
+if PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
+    loadstring(game:HttpGet("https://bit.ly/3CzjT9j",true))()
+elseif PlaceId == 4520749081 or PlaceId == 6381829480 or PlaceId == 5931540094 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/t6UG940P",true))()
+elseif PlaceId == 537413528 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/BABFT")()
+elseif PlaceId == 8396586868 or PlaceId == 9432106399 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/AOPG")()
+elseif PlaceId == 914010731 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/Ro-Ghoul")()
+elseif PlaceId == 2866967438 then
+    loadstring(game:HttpGet("https://bit.ly/3g7FVb7",true))()
+elseif PlaceId == 6284583030 or PlaceId == 7722306047 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/sinnx32/prx/main/Petsim")()
+elseif PlaceId == 4580204640 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FOXTROXHACKS/ElToro/main/Hub.lua"))()
+elseif PlaceId == 6652551895 or PlaceId == 8737602449 then
+    loadstring(game:HttpGet("https://pastebin.com/raw/aNH6250s",true))()
+end
